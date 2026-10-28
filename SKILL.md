@@ -65,6 +65,8 @@ requested scope rather than forcing the entire workflow.
 
 ## Workflow
 
+For a full interactive report, read [references/report-workflow.md](references/report-workflow.md) before drafting. It defines the depth, venue-metrics, design, interaction and actual-browser acceptance criteria. Use [assets/report-shell.html](assets/report-shell.html) as a starting point when helpful; adapt its design and controls to the paper, replace every demonstration item, and never present its sample content as evidence. It is a reusable interface scaffold, not a finished report. Preserve the 13-stage research process below.
+
 ### Phase 1 --- Identify and retrieve
 
 1.  Resolve the paper using the provided title, uploaded PDF, DOI,
