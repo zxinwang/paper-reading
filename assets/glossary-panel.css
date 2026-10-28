@@ -1,0 +1,13 @@
+[data-movable-glossary]{position:fixed!important;z-index:9999;inset:auto 22px 78px auto!important;width:min(410px,calc(100vw - 24px))!important;max-height:min(72vh,650px)!important;height:auto!important;overflow:auto!important;background:#fff!important;color:#182b34;border:1px solid #cbdcda!important;border-radius:16px!important;box-shadow:0 18px 65px #102a3655!important;padding:18px!important}
+[data-movable-glossary][hidden]{display:none!important}
+[data-movable-glossary][data-mode=docked]{inset:12px 12px 12px auto!important;max-height:calc(100vh - 24px)!important;height:calc(100vh - 24px)!important;border-radius:16px!important}
+[data-glossary-handle]{cursor:grab;touch-action:none;user-select:none;position:sticky;top:-18px;z-index:2;background:#fff;border-bottom:1px solid #dfebe6;padding:9px 0 12px;display:flex;align-items:center;justify-content:space-between;gap:9px;flex-wrap:wrap}
+[data-glossary-handle].dragging{cursor:grabbing}
+[data-glossary-handle]:focus-visible{outline:3px solid #61b49c;outline-offset:3px}
+[data-glossary-handle] h2{font-size:18px!important;margin:0!important;line-height:1.4!important;color:#163b3e!important}
+.glossary-grip{color:#678b85;font-size:11px;letter-spacing:.06em;display:block}
+.glossary-tools{display:flex;gap:5px;align-items:center;margin-left:auto}
+.glossary-tools button{font:600 11px/1.4 system-ui!important;color:#285e55!important;background:#edf6f2!important;border:1px solid #d2e3dc!important;border-radius:6px!important;padding:6px 8px!important;cursor:pointer}
+[data-glossary-launcher]{background:#176e5e!important;color:#fff!important}
+[data-movable-glossary] input{font:inherit;width:100%;padding:11px 12px;margin:12px 0;border:1px solid #bdcfc9;border-radius:9px}
+@media(max-width:600px){[data-movable-glossary]{inset:auto 10px 68px auto!important;max-height:70vh!important;width:calc(100vw - 20px)!important}[data-movable-glossary][data-mode=docked]{inset:58px 8px 8px auto!important;height:calc(100dvh - 66px)!important;max-height:calc(100dvh - 66px)!important;width:calc(100vw - 16px)!important}}
