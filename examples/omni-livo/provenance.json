@@ -1,0 +1,18 @@
+{
+  "original_skill_generated_sha256": "f3903ff4830aded7e10e4a5c303c2ff8c00176c3039ac5ce074a88f99e624a70",
+  "published_copy_sha256": "88d082537856ad28985b09223fe42dd1ff922818450fc793244d616f6d860669",
+  "packaging_changes": [
+    "Local PDF hyperlinks replaced with publisher DOI links",
+    "Local-paper link labels clarified",
+    "Public-copy source/access note added",
+    "Internal generation-note pointers changed to public README/validation links and publication status clarified"
+  ],
+  "scientific_content_and_interaction_changes": false,
+  "original_generation_validation": {
+    "date": "2026-10-27",
+    "desktop_checks_passed": 63,
+    "mobile_tested": false
+  },
+  "publication_validation": "63 desktop checks passed offline on 2026-10-28; see validation.json",
+  "paper_pdf_included": false
+}

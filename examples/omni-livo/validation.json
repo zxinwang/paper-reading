@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-28",
+  "scope": "desktop only",
+  "browser": "155.0.4283.62",
+  "offline": true,
+  "checks_passed": 63,
+  "checks": [
+    {
+      "name": "offline document opens",
+      "pass": true
+    },
+    {
+      "name": "13 sections",
+      "pass": true,
+      "detail": "13 numbered sections + sources"
+    },
+    {
+      "name": "full title visible",
+      "pass": true
+    },
+    {
+      "name": "no external runtime dependencies",
+      "pass": true
+    },
+    {
+      "name": "no horizontal page overflow",
+      "pass": true
+    },
+    {
+      "name": "pipeline stage 1",
+      "pass": true
+    },
+    {
+      "name": "pipeline stage 2",
+      "pass": true
+    },
+    {
+      "name": "pipeline stage 3",
+      "pass": true
+    },
+    {
+      "name": "pipeline stage 4",
+      "pass": true
+    },
+    {
+      "name": "pipeline stage 5",
+      "pass": true
+    },
+    {
+      "name": "pipeline stage 6",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 0",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 1",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 2",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 3",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 4",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 5",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 6",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 7",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 8",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 9",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 10",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 11",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 12",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 13",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 14",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 15",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 16",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 17",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 18",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 19",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 20",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 21",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 22",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 23",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 24",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 25",
+      "pass": true
+    },
+    {
+      "name": "comparison sequence 26",
+      "pass": true
+    },
+    {
+      "name": "Cupola comparison numeric result",
+      "pass": true
+    },
+    {
+      "name": "derivation expand 0",
+      "pass": true
+    },
+    {
+      "name": "derivation collapse 0",
+      "pass": true
+    },
+    {
+      "name": "derivation expand 1",
+      "pass": true
+    },
+    {
+      "name": "derivation collapse 1",
+      "pass": true
+    },
+    {
+      "name": "covariance slider max",
+      "pass": true
+    },
+    {
+      "name": "covariance slider min",
+      "pass": true
+    },
+    {
+      "name": "glossary opens",
+      "pass": true
+    },
+    {
+      "name": "glossary search",
+      "pass": true
+    },
+    {
+      "name": "glossary empty state",
+      "pass": true
+    },
+    {
+      "name": "mouse drag changes geometry",
+      "pass": true,
+      "detail": {
+        "before": {
+          "x": 1008,
+          "y": 272,
+          "width": 410,
+          "height": 650
+        },
+        "after": {
+          "x": 758,
+          "y": 172,
+          "width": 410,
+          "height": 650
+        }
+      }
+    },
+    {
+      "name": "keyboard movement",
+      "pass": true,
+      "detail": {
+        "before": 758,
+        "after": 746
+      }
+    },
+    {
+      "name": "dock state",
+      "pass": true
+    },
+    {
+      "name": "dock right viewport",
+      "pass": true,
+      "detail": {
+        "x": 1018,
+        "y": 12,
+        "width": 410,
+        "height": 976
+      }
+    },
+    {
+      "name": "float state",
+      "pass": true
+    },
+    {
+      "name": "reset geometry",
+      "pass": true,
+      "detail": {
+        "initial": {
+          "x": 1008,
+          "y": 272,
+          "width": 410,
+          "height": 650
+        },
+        "reset": {
+          "x": 1008,
+          "y": 272,
+          "width": 410,
+          "height": 650
+        }
+      }
+    },
+    {
+      "name": "glossary close",
+      "pass": true
+    },
+    {
+      "name": "term link opens matching entry",
+      "pass": true
+    },
+    {
+      "name": "escape close",
+      "pass": true
+    },
+    {
+      "name": "desktop navigation",
+      "pass": true
+    },
+    {
+      "name": "glossary reopens after scroll",
+      "pass": true
+    },
+    {
+      "name": "desktop resize clamps panel",
+      "pass": true,
+      "detail": {
+        "x": 8,
+        "y": 8,
+        "width": 410,
+        "height": 648
+      }
+    },
+    {
+      "name": "no browser/console errors",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "no broken images",
+      "pass": true
+    },
+    {
+      "name": "no raw latex delimiters",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "report_sha256": "88d082537856ad28985b09223fe42dd1ff922818450fc793244d616f6d860669",
+  "limitations": [
+    "No mobile or touch test",
+    "No SLAM execution or scientific replication",
+    "External DOI links need network and may require full-text access"
+  ]
+}
